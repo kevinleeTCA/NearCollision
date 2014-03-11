@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Grain_v1_crypt", "Grain_v1_crypt\Grain_v1_crypt.vcxproj", "{020E0E33-745A-4496-BA80-C786E855F357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{020E0E33-745A-4496-BA80-C786E855F357}.Debug|Win32.ActiveCfg = Debug|Win32
+		{020E0E33-745A-4496-BA80-C786E855F357}.Debug|Win32.Build.0 = Debug|Win32
+		{020E0E33-745A-4496-BA80-C786E855F357}.Release|Win32.ActiveCfg = Release|Win32
+		{020E0E33-745A-4496-BA80-C786E855F357}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
